@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Cindy-keza
 - 👀 I’m interested in developing my coding skills
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning abouth data and algorithm 
 - 📫 How to reach me kezacindy02@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Australia is wider than the moon;)
 
 <!---
 Cindy-keza/Cindy-keza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
